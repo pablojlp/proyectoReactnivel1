@@ -1,0 +1,11 @@
+npx create-react-app proyectoreact1
+cd proyectoreact1
+npm install bootstrap react-bootstrap @fortawesome/fontawesome-free
+npm start
+
+Header.js
+Navigation.js
+Profile.js
+FavoriteCharacter.js
+ContactList.js
+ContactForm.js
